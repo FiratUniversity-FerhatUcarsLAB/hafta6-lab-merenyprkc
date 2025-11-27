@@ -4,6 +4,7 @@
  * Proje Adı: Sinema Bileti Fiyat Hesaplama Sistemi
  * Açıklama: Bu program, sinema bileti fiyatını kullanıcının
  *           girdiği bilgilere göre hesaplar ve bilet detaylarını gösterir.
+ * Tarih: 27.11.2025
  */
 
 import java.util.Scanner;
@@ -162,3 +163,4 @@ public class Proje2_SinemaBileti {
         System.out.println("--------------------");
     }
 }
+
