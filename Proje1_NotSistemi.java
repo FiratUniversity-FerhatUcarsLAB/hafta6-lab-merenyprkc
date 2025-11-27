@@ -5,6 +5,7 @@
  * Açıklama: Bu program, öğrenci notlarını alır, ortalamayı hesaplar,
  *           geçme durumunu belirler, harf notunu atar, onur listesi kontrolü yapar
  *           ve bütünleme hakkını değerlendirir. 
+ * Tarih: 27.11.2025
  */
 
 import java.util.Scanner;
@@ -77,3 +78,4 @@ public class Proje1_NotSistemi {
         return (ortalama >= 40) && (ortalama < 50);
     }
 }
+
